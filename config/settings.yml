@@ -1,5 +1,14 @@
-answer.content.maximum: 50
-category.name.maximum: 250
-word.content.maximum: 50
-user.name.maximum:50
-user.password.maximum:6
+answer:
+  content:
+    maximum: 50
+category:
+  name:
+    maximum: 250
+word:
+  content:
+    maximum: 50   
+user:
+  name:
+    maximum: 50
+  password:
+    maximum: 6
